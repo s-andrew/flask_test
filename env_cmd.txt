@@ -1,0 +1,2 @@
+cd /d G:\PythonProjects\flask_test
+workon flask_test
